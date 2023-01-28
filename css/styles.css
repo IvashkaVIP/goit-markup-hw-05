@@ -124,7 +124,20 @@ body {
 }
 .link.current-page{
   color: var(--active-text-color);
+  position: relative;
 }
+.link.current-page::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  height: 4px;
+  border-radius: 2px;
+  background-color: var(--active-text-color);
+}
+
+
 /* ---------------------------Contakts */
 .adress-main {
   margin-left: auto;
