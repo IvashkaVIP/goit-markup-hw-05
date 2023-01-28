@@ -122,6 +122,9 @@ body {
 .site-nav .item + .item {
   margin-left: 40px;
 }
+.link.current-page{
+  color: var(--active-text-color);
+}
 /* ---------------------------Contakts */
 .adress-main {
   margin-left: auto;
