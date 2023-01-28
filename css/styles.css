@@ -97,7 +97,6 @@ body {
   color: var(--dark-heading-color);
   font-family: Raleway, sans-serif;
   font-weight: 800;
-  text-decoration: none;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -110,7 +109,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration-line: none;
   padding-top: 24px;
   padding-bottom: 24px;
 }
@@ -140,7 +138,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration-line: none;
 }
 .contakts:hover,
 .contakts:focus {
