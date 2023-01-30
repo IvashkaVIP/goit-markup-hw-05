@@ -451,6 +451,9 @@ body {
   border: 1px solid var(--footer-color-text);
   border-top: none;
 }
+.portfolio-description .text-description {
+  color: var(--body-text-color);
+}
 .portfolio-item {
   flex-basis: calc((100% - 2 * 24px) / 3);
 }
